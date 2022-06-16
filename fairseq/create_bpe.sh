@@ -1,6 +1,5 @@
 # Run with sh create_bpe.sh directory
 dir=$1
-
 for SPLIT in train val
 do
   for LANG in source target
